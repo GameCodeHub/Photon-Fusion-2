@@ -103,6 +103,9 @@
 - Input từ người chơi được thu thập và đồng bộ hóa qua mạng.  
 - Vật lý và hoạt ảnh nhân vật được đồng bộ mượt mà giữa các client.
 
+![image](https://github.com/user-attachments/assets/5e23a4c1-dd3f-479d-84c8-0ea543a45290)
+
+
 ---
 
 ## **7. Bài Tập Mở Rộng**
