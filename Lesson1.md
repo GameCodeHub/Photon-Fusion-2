@@ -142,7 +142,10 @@ GameManager.cs
 1. Thêm `GameManager` vào một GameObject trong Scene chính.  
 2. Chạy game trong Unity Editor.  
    - Nếu cấu hình đúng, Photon Fusion sẽ tạo một phòng với tên `RoomHost`.  
-   - Các client khác có thể kết nối với host thông qua App ID của bạn.  
+   - Các client khác có thể kết nối với host thông qua App ID của bạn.
+
+   
+![image](https://github.com/user-attachments/assets/aba974ad-38f6-47a2-b672-5fad64d5aaf8)
 
 ---
 
@@ -158,4 +161,8 @@ GameManager.cs
 
 - [Photon Fusion Documentation](https://doc.photonengine.com/fusion)  
 - [Photon Dashboard](https://dashboard.photonengine.com)  
-- [Unity Integration Guide](https://unity.com/learn)  
+- [Unity Integration Guide](https://unity.com/learn)
+
+### **Tác giả**  
+**Pesinus**  
+Liên hệ: [nguyenmanh2004devgame@gmail.com](mailto:nguyenmanh2004devgame@gmail.com)
